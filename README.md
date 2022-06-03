@@ -17,7 +17,7 @@ Automated CMS SIMYLINK EXPLOITER
 - Thanks to Allah SWA
 
 
-[Sighing a Dead Warrant](0xAbbargSF)
+[Sighing a Dead Warrant](xploit.py)
 
 Contact :
 [@0xAbbarhSF](https://twitter.com/0xAbbarhSF)
