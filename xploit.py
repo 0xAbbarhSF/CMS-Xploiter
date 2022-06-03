@@ -747,7 +747,7 @@ _______              _____  ___.   ___.                   .__       ____________
 \  \_/   \ >    < /    |    \| \_\ \| \_\ \ / __ \_|  | \/|   Y  \ /        \ |     \   
  \_____  //__/\_ \\____|__  /|___  /|___  /(____  /|__|   |___|  //_______  / \___  /   
        \/       \/        \/     \/     \/      \/             \/         \/      \/  
-                            Coded By : 0xAbbarhSF  
+                 Coded By : 0xAbbarhSF  - https://github.com/0xAbbarhSF
     """
     print fy + Banner + fw
     print "{}[{}1{}] {}  Mass Symlink Shells                               ".format(fr, fg, fr, fw)
